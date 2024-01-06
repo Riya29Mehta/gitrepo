@@ -9,6 +9,7 @@ int main()
     int i = 0;
     q1.push(0);
     q1.push(1);
+    q1.push(1);//feature2 update
 
     while(!q1.empty())
     {
