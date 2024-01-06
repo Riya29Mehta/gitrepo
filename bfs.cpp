@@ -8,6 +8,7 @@ int main()
     queue<int> q1;
     int i = 0;
     q1.push(0);
+    q1.push(1);
 
     while(!q1.empty())
     {
