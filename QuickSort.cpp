@@ -45,3 +45,5 @@ int main()
         cout << arr[i] << "  ";
     }
 }
+
+// bye world
