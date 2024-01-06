@@ -20,6 +20,7 @@ int main()
             if(graph[i][j]==1 && visited[j]!=1){
                 q1.push(j);
                 visited[j]=1;
+                visited[j]=1; //featur1 update
             }
         }
     }
