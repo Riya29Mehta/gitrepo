@@ -24,7 +24,6 @@ int main(){
             if(root<15)
             {
                 count++;
-                count++; //update 1time
             }
             
         }
