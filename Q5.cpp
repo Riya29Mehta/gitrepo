@@ -24,6 +24,7 @@ int main(){
             if(root<15)
             {
                 count++;
+                count++;//new f1
             }
             
         }
